@@ -269,11 +269,11 @@ pre {
   .site-title {
     font-size: 30px; }
     .site-title .site-name {
-      padding: 0px 10px 0px 12px; }
+      padding: 0px 10px 0px 88px; }
     .site-title .site-description {
       font-size: 9px;
-      top: 120px;
-      left: 124px;
+      top: 14px;
+      left: -100px;
       position: fixed; }
 
   .site-links {
