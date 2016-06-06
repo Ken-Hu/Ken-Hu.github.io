@@ -274,7 +274,7 @@ pre {
       font-size: 9px;
       top: 14px;
       left: -100px;
-      position: fixed; }
+      position: inherit; }
 
   .site-links {
     font-size: 14px;
