@@ -176,13 +176,16 @@ pre {
     font-size: 14px;
     color: #a6a6a6;
     text-transform: uppercase;
-    position: inherit;
+    position: absolute;
     top: 18px;
-    left: -148px; }
+    left: 2px;
+    width: 266px;
+    margin-top: 38px;
+    line-height: 14px; }
 
 .site-links {
   font-size: 22px;
-  padding: 0px 0px 0px 0px;
+  padding: 16px 0px 0px 0px;
   margin-left: -4px;
   margin-top: 4px; }
   .site-links a {
@@ -239,13 +242,14 @@ pre {
   .site-title {
     font-size: 34px; }
     .site-title .site-description {
-      font-size: 10px;
-      top: 14px;
-      left: -108px; }
+      font-size: 12px;
+      top: 4px;
+      left: 1px;
+      width: 352px; }
 
   .site-links {
     font-size: 16px;
-    padding: 4px 0px 0px 0px;
+    padding: 16px 0px 0px 0px;
     margin-left: 1px; }
     .site-links a .link-text {
       -moz-transform: translate(0%, 0%);
@@ -269,17 +273,17 @@ pre {
   .site-title {
     font-size: 30px; }
     .site-title .site-name {
-      padding: 0px 10px 0px 90px; }
+      padding: 0px 0px 0px 0px; }
     .site-title .site-description {
-      font-size: 9px;
-      top: 14px;
-      left: -100px;
-      position: inherit; }
+      font-size: 10px;
+      top: 0px;
+      left: -128px; }
 
   .site-links {
     font-size: 14px;
-    padding: 3px 0px 0px 0px;
+    padding: 4px 0px 0px 10px;
     margin-left: 0px;
+    width: 268px;
     text-align: center; }
     .site-links a {
       padding: 0px;
